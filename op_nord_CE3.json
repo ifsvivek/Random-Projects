@@ -1,0 +1,48 @@
+{
+  "productSpecs": {
+    "General": {
+      "In The Box": "Phone, charger, Data cable, sim ejector, user guide",
+      "Model Number": "CPH2467",
+      "Model Name": "Nord CE 3 Lite 5G",
+      "Color": "Pastel Lime",
+      "Browse Type": "Smartphones",
+      "SIM Type": "Dual Sim",
+      "Hybrid Sim Slot": "No",
+      "Touchscreen": "Yes",
+      "OTG Compatible": "Yes"
+    },
+    "Display Features": {
+      "Display Size": "17.07 cm (6.72 inch)",
+      "Resolution": "2400x1080"
+    },
+    "OS & Processor Features": {
+      "Operating System": "Android Android 13",
+      "Processor Core": "Octa Core",
+      "Primary Clock Speed": "2.2 GHz"
+    },
+    "Memory & Storage Features": {
+      "Internal Storage": "256 GB",
+      "RAM": "8 GB",
+      "Memory Card Slot Type": "Dedicated Slot"
+    },
+    "Camera Features": {
+      "Primary Camera": "108MP Rear Camera",
+      "Dual Camera Lens": "Primary Camera"
+    },
+    "Connectivity Features": {
+      "Network Type": "5G",
+      "Supported Networks": "5G"
+    },
+    "Battery & Power Features": {
+      "Battery Capacity": "5000 mAh"
+    }
+  },
+  "priceOverview": {
+    "Current Price": "₹18,984",
+    "Lowest Price": "₹18,610",
+    "Highest Price": "₹21,999"
+  },
+  "discountPercentage": "14% OFF",
+  "productImage": "https://rukminim1.flixcart.com/image/200/200/xif0q/mobile/a/o/z/nord-ce-3-lite-5g-ce2099-oneplus-original-imagzj3wqxzgquah.jpeg?q=90",
+  "productName": "OnePlus NORD CE 3 Lite 5G (Pastel Lime, 256 GB)(8 GB RAM)"
+}
