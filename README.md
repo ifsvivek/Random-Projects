@@ -8,7 +8,9 @@ url = 'https://www.pricebefore.com/'
 
 use **pss.js** to scrape the data from the website
 
-usage: `node pss.js`   // this will scrape the data from the website and save it to a file
+usage: 
+- `npm install`
+- `node pss.js`   // this will scrape the data from the website and save it to a file
 
 
 
